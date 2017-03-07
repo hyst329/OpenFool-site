@@ -1,1 +1,6 @@
+name: OpenFool site and blog
+description: Site and blog for OpenFool game.
+author: hyst329
+author_email: trolleybus.1329@gmail.com
+baseurl: /OpenFool-site
 theme: jekyll-theme-tactile
