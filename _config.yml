@@ -3,4 +3,5 @@ description: Site and blog for OpenFool game.
 author: hyst329
 author_email: trolleybus.1329@gmail.com
 baseurl: /OpenFool-site
+url: http://hyst329.github.io
 theme: jekyll-theme-tactile
